@@ -8,23 +8,23 @@
 
 **[进入小说阅读网站](https://d1654.github.io/coimbra-wanderer/) · [直接阅读第一章](https://d1654.github.io/coimbra-wanderer/chapters/001.html)**
 
-五卷182章均可在网页直接阅读，不需要下载或安装Word。网站提供分卷目录、章节标题搜索、上下章导航、手机排版、字号和明暗模式，记住本浏览器上次打开的章号。完整入口见[阅读说明](docs/README.md)。
+五卷182章均可在浏览器直接阅读，无需下载或安装阅读软件。网站提供分卷目录、章节标题搜索、上下章导航、手机排版、字号和明暗模式，记住本浏览器上次打开的章号。完整入口见[阅读说明](docs/README.md)。
 
 本次文档版本：**2026年10月11日，五卷182章，620,607正文汉字**。故事尚未完结，第六卷及后续正文未收录。前四卷为当前采用稿，第五卷为待作者实读工作稿；发布不表示文学效果已获真人认可。
 
-## 离线Word下载（可选）
+## 分卷在线阅读
 
-| 文档 | 章节 | 章数 | 正文汉字 |
+| 分卷目录 | 章节 | 章数 | 正文汉字 |
 | --- | --- | ---: | ---: |
-| [第一卷 · 无名之岸](volumes/01-无名之岸.docx?raw=true) | 001—022 | 22 | 83,143 |
-| [第二卷 · 黑铁荣光](volumes/02-黑铁荣光.docx?raw=true) | 023—069 | 47 | 155,726 |
-| [第三卷 · 群山彼方](volumes/03-群山彼方.docx?raw=true) | 070—123 | 54 | 187,484 |
-| [第四卷 · 黄金与炊烟](volumes/04-黄金与炊烟.docx?raw=true) | 124—154 | 31 | 100,411 |
-| [第五卷 · 路西法的囚徒](volumes/05-路西法的囚徒.docx?raw=true) | 155—182 | 28 | 93,843 |
-| [作品与阅读说明](docs/作品与阅读说明.docx?raw=true) | 简介、进度、章目和阅读方法 | — | — |
-| [版权与使用说明](docs/版权与使用说明.docx?raw=true) | 既有版权说明的Word版 | — | — |
+| [第一卷 · 无名之岸](https://d1654.github.io/coimbra-wanderer/#volume-1) | 001—022 | 22 | 83,143 |
+| [第二卷 · 黑铁荣光](https://d1654.github.io/coimbra-wanderer/#volume-2) | 023—069 | 47 | 155,726 |
+| [第三卷 · 群山彼方](https://d1654.github.io/coimbra-wanderer/#volume-3) | 070—123 | 54 | 187,484 |
+| [第四卷 · 黄金与炊烟](https://d1654.github.io/coimbra-wanderer/#volume-4) | 124—154 | 31 | 100,411 |
+| [第五卷 · 路西法的囚徒](https://d1654.github.io/coimbra-wanderer/#volume-5) | 155—182 | 28 | 93,843 |
 
-采用现代Word格式`.docx`，不是改扩展名伪装的旧式`.doc`。下载后使用Word或WPS打开；每卷包含可点击的章节目录、导航标题和页码，章节另起一页。若链接进入文件页，请使用该页下载按钮。需要一次下载全部文件时，可在仓库首页选择`Code → Download ZIP`。
+## 离线阅读
+
+离线阅读后续将提供 EPUB 格式，适合电子书阅读器与手机阅读应用。目前尚未提供下载，请先使用上方在线阅读入口。
 
 ## 创作与内容说明
 
@@ -38,4 +38,4 @@
 
 本作品并非软件开源项目。阅读或下载不额外授予转载、出版、改编、商业使用或模型训练许可；第三方世界设定、角色、名称等权利归相应权利人。完整说明见[版权与使用说明](COPYRIGHT.md)。
 
-同人属性、AI参与、虚构内容及版本限度见[免责声明](DISCLAIMER.md)，网站内也提供[免责声明](https://d1654.github.io/coimbra-wanderer/disclaimer.html)及[版权说明](https://d1654.github.io/coimbra-wanderer/copyright.html)。在线正文是首要阅读方式，Word仅为可选离线副本。
+同人属性、AI参与、虚构内容及版本限度见[免责声明](DISCLAIMER.md)，网站内也提供[免责声明](https://d1654.github.io/coimbra-wanderer/disclaimer.html)及[版权说明](https://d1654.github.io/coimbra-wanderer/copyright.html)。当前请直接在线阅读。
