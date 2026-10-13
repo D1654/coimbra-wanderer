@@ -10,13 +10,13 @@
 
 | 分卷目录 | 章节 | 正文汉字 |
 | --- | --- | ---: |
-| [第一卷 · 无名之岸](https://d1654.github.io/coimbra-wanderer/#volume-1) | 001—022，共22章 | 83,143 |
-| [第二卷 · 黑铁荣光](https://d1654.github.io/coimbra-wanderer/#volume-2) | 023—069，共47章 | 155,726 |
-| [第三卷 · 群山彼方](https://d1654.github.io/coimbra-wanderer/#volume-3) | 070—123，共54章 | 187,484 |
-| [第四卷 · 黄金与炊烟](https://d1654.github.io/coimbra-wanderer/#volume-4) | 124—154，共31章 | 100,411 |
-| [第五卷 · 路西法的囚徒](https://d1654.github.io/coimbra-wanderer/#volume-5) | 155—182，共28章 | 93,843 |
+| [第一卷 · 无名之岸](https://d1654.github.io/coimbra-wanderer/#volume-1) | 001—022，共22章 | 83,235 |
+| [第二卷 · 黑铁荣光](https://d1654.github.io/coimbra-wanderer/#volume-2) | 023—069，共47章 | 156,385 |
+| [第三卷 · 群山彼方](https://d1654.github.io/coimbra-wanderer/#volume-3) | 070—123，共54章 | 188,390 |
+| [第四卷 · 黄金与炊烟](https://d1654.github.io/coimbra-wanderer/#volume-4) | 124—154，共31章 | 101,004 |
+| [第五卷 · 路西法的囚徒](https://d1654.github.io/coimbra-wanderer/#volume-5) | 155—182，共28章 | 94,432 |
 
-当前版本更新于**2026年10月11日**，共**182章、620,607正文汉字**。故事尚未完结，第六卷及后续正文未收录。前四卷为当前采用稿，第五卷为待作者实读工作稿，发布不代表已获真人文学评价。
+当前版本更新于**2026年10月13日**，共**182章、623,446正文汉字**。故事尚未完结，第六卷及后续正文未收录。前五卷正文均为本轮修订采用稿，第五卷仍待作者整卷实读，发布不代表已获真人文学评价。
 
 ## 如何阅读
 
