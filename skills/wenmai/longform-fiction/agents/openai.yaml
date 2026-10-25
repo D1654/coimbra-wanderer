@@ -1,0 +1,4 @@
+interface:
+  display_name: "文脉 · 长篇小说创作"
+  short_description: "组织中文长篇构思、人物发展、正文写作、审读修订与跨会话接续"
+  default_prompt: "请使用 $longform-fiction，根据本项目当前设定与正文继续创作，并维护有原文依据的人物变化和未完线索。"
