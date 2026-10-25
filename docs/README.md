@@ -37,7 +37,11 @@
 
 ## 离线阅读
 
-离线阅读后续将提供 EPUB 格式，适合电子书阅读器与手机阅读应用。目前尚未提供下载，请先使用上方在线阅读入口。
+[下载《科贝拉流浪者-GPT完本精修版.epub》](https://github.com/D1654/coimbra-wanderer/releases/download/novel-epub-2026.10.25/%E7%A7%91%E8%B4%9D%E6%8B%89%E6%B5%81%E6%B5%AA%E8%80%85-GPT%E5%AE%8C%E6%9C%AC%E7%B2%BE%E4%BF%AE%E7%89%88.epub)（约4.2 MiB）
+
+[Release发布页](https://github.com/D1654/coimbra-wanderer/releases/tag/novel-epub-2026.10.25) · [SHA256校验文件](https://github.com/D1654/coimbra-wanderer/releases/download/novel-epub-2026.10.25/SHA256SUMS.txt)
+
+署名 **D1654**，全十四卷644章、2,230,478正文汉字。内含封面、扉页、卷章两级目录和逐章正文；适合电子书阅读器与手机阅读应用，可调整字号和字体。全部57,577段与当前精修采用稿逐字核对，EPUBCheck 5.4.0校验0错误、0警告。
 
 ## 说明与条款
 

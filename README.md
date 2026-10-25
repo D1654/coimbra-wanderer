@@ -1,6 +1,6 @@
 # 科贝拉流浪者
 
-[在线阅读](https://d1654.github.io/coimbra-wanderer/) · [文脉 Wenmai Skill](skills/wenmai/README.md) · [文脉离线安装包](skills/wenmai/releases/v0.8.0-dev.15/wenmai-fiction-v0.8.0-dev.15.zip?raw=true)
+[在线阅读](https://d1654.github.io/coimbra-wanderer/) · [EPUB下载](https://github.com/D1654/coimbra-wanderer/releases/download/novel-epub-2026.10.25/%E7%A7%91%E8%B4%9D%E6%8B%89%E6%B5%81%E6%B5%AA%E8%80%85-GPT%E5%AE%8C%E6%9C%AC%E7%B2%BE%E4%BF%AE%E7%89%88.epub) · [文脉 Wenmai Skill](skills/wenmai/README.md) · [文脉离线安装包](skills/wenmai/releases/v0.8.0-dev.15/wenmai-fiction-v0.8.0-dev.15.zip?raw=true)
 
 以《卓越之剑》（Granado Espada）世界为背景的中文同人长篇小说。
 
@@ -48,7 +48,11 @@
 
 ## 离线阅读
 
-离线阅读后续将提供 EPUB 格式，适合电子书阅读器与手机阅读应用。目前尚未提供下载，请先使用上方在线阅读入口。
+[下载《科贝拉流浪者-GPT完本精修版.epub》](https://github.com/D1654/coimbra-wanderer/releases/download/novel-epub-2026.10.25/%E7%A7%91%E8%B4%9D%E6%8B%89%E6%B5%81%E6%B5%AA%E8%80%85-GPT%E5%AE%8C%E6%9C%AC%E7%B2%BE%E4%BF%AE%E7%89%88.epub)（约4.2 MiB）
+
+[Release发布页](https://github.com/D1654/coimbra-wanderer/releases/tag/novel-epub-2026.10.25) · [SHA256校验文件](https://github.com/D1654/coimbra-wanderer/releases/download/novel-epub-2026.10.25/SHA256SUMS.txt)
+
+署名 **D1654**，全十四卷644章、2,230,478正文汉字。内含封面、扉页、卷章两级目录和逐章正文；适合电子书阅读器与手机阅读应用，可调整字号和字体。全部57,577段与当前精修采用稿逐字核对，EPUBCheck 5.4.0校验0错误、0警告。
 
 ## 创作与内容说明
 
@@ -62,4 +66,4 @@
 
 本作品并非软件开源项目。阅读或下载不额外授予转载、出版、改编、商业使用或模型训练许可；第三方世界设定、角色、名称等权利归相应权利人。完整说明见[版权与使用说明](COPYRIGHT.md)。
 
-同人属性、AI参与、虚构内容及版本限度见[免责声明](DISCLAIMER.md)，网站内也提供[免责声明](https://d1654.github.io/coimbra-wanderer/disclaimer.html)及[版权说明](https://d1654.github.io/coimbra-wanderer/copyright.html)。当前请直接在线阅读。
+同人属性、AI参与、虚构内容及版本限度见[免责声明](DISCLAIMER.md)，网站内也提供[免责声明](https://d1654.github.io/coimbra-wanderer/disclaimer.html)及[版权说明](https://d1654.github.io/coimbra-wanderer/copyright.html)。可在线阅读，或通过Release下载EPUB离线阅读。
