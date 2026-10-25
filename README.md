@@ -1,6 +1,6 @@
 # 科贝拉流浪者
 
-[在线阅读](https://d1654.github.io/coimbra-wanderer/) · [EPUB下载](https://github.com/D1654/coimbra-wanderer/releases/download/novel-epub-2026.10.25/coimbra-wanderer-GPT-refined.epub) · [文脉 Wenmai Skill](skills/wenmai/README.md) · [文脉离线安装包](skills/wenmai/releases/v0.8.0-dev.15/wenmai-fiction-v0.8.0-dev.15.zip?raw=true)
+[在线阅读](https://d1654.github.io/coimbra-wanderer/) · [EPUB下载](https://github.com/D1654/coimbra-wanderer/releases) · [文脉 Wenmai Skill](skills/wenmai/README.md) · [文脉离线安装包](skills/wenmai/releases/v0.8.0-dev.15/wenmai-fiction-v0.8.0-dev.15.zip?raw=true)
 
 以《卓越之剑》（Granado Espada）世界为背景的中文同人长篇小说。
 
