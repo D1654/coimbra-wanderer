@@ -10,13 +10,22 @@
 
 | 分卷目录 | 章节 | 正文汉字 |
 | --- | --- | ---: |
-| [第一卷 · 无名之岸](https://d1654.github.io/coimbra-wanderer/#volume-1) | 001—022，共22章 | 83,235 |
-| [第二卷 · 黑铁荣光](https://d1654.github.io/coimbra-wanderer/#volume-2) | 023—069，共47章 | 156,385 |
-| [第三卷 · 群山彼方](https://d1654.github.io/coimbra-wanderer/#volume-3) | 070—123，共54章 | 188,390 |
-| [第四卷 · 黄金与炊烟](https://d1654.github.io/coimbra-wanderer/#volume-4) | 124—154，共31章 | 101,004 |
-| [第五卷 · 路西法的囚徒](https://d1654.github.io/coimbra-wanderer/#volume-5) | 155—182，共28章 | 94,432 |
+| [第1卷 · 无名之岸](https://d1654.github.io/coimbra-wanderer/#volume-1) | 001—022，共22章 | 82,697 |
+| [第2卷 · 黑铁荣光](https://d1654.github.io/coimbra-wanderer/#volume-2) | 023—069，共47章 | 155,902 |
+| [第3卷 · 群山彼方](https://d1654.github.io/coimbra-wanderer/#volume-3) | 070—123，共54章 | 187,905 |
+| [第4卷 · 黄金与炊烟](https://d1654.github.io/coimbra-wanderer/#volume-4) | 124—154，共31章 | 100,549 |
+| [第5卷 · 路西法的囚徒](https://d1654.github.io/coimbra-wanderer/#volume-5) | 155—182，共28章 | 93,925 |
+| [第6卷 · 满帆之年](https://d1654.github.io/coimbra-wanderer/#volume-6) | 183—216，共34章 | 121,748 |
+| [第7卷 · 誓约之桥](https://d1654.github.io/coimbra-wanderer/#volume-7) | 217—253，共37章 | 133,858 |
+| [第8卷 · 重新上路](https://d1654.github.io/coimbra-wanderer/#volume-8) | 254—308，共55章 | 197,618 |
+| [第9卷 · 彼岸月光](https://d1654.github.io/coimbra-wanderer/#volume-9) | 309—360，共52章 | 189,011 |
+| [第10卷 · 师徒再战](https://d1654.github.io/coimbra-wanderer/#volume-10) | 361—398，共38章 | 138,315 |
+| [第11卷 · 沉城旧歌](https://d1654.github.io/coimbra-wanderer/#volume-11) | 399—428，共30章 | 98,304 |
+| [第12卷 · 列国同舟](https://d1654.github.io/coimbra-wanderer/#volume-12) | 429—488，共60章 | 200,245 |
+| [第13卷 · 神与人的战场](https://d1654.github.io/coimbra-wanderer/#volume-13) | 489—562，共74章 | 254,971 |
+| [第14卷 · 归航](https://d1654.github.io/coimbra-wanderer/#volume-14) | 563—644，共82章 | 275,430 |
 
-当前版本更新于**2026年10月13日**，共**182章、623,446正文汉字**。故事尚未完结，第六卷及后续正文未收录。前五卷正文均为本轮修订采用稿，第五卷仍待作者整卷实读，发布不代表已获真人文学评价。
+当前版本更新于**2026年10月25日**，共**十四卷644章、2,230,478正文汉字，全书完**。本轮精修稿已完整收录；发布不代表已获真人文学评价。
 
 ## 如何阅读
 
@@ -24,7 +33,7 @@
 2. 章节提供上一章／下一章、返回目录、字号和日间／夜间模式，手机也可直接阅读。
 3. 章号记忆与样式设置只保存在本机浏览器，不上传阅读记录；关闭JavaScript仍能阅读正文和使用章节链接。
 
-全部182章均为网页正文，可直接使用浏览器阅读。本次网页与当前源章的正文、章题和段落顺序逐字核对，不修改文学内容。
+全部644章均为网页正文，可直接使用浏览器阅读。本次网页与当前源章的正文、章题和段落顺序逐字核对，不修改文学内容。
 
 ## 离线阅读
 

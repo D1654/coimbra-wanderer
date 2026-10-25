@@ -34,17 +34,18 @@
       writeStored(preferenceKey, JSON.stringify(style));
     });
   }
+  const chapterCount = Number(document.body.dataset.chapterCount);
   const current = Number(document.body.dataset.chapter);
-  if (Number.isInteger(current) && current >= 1 && current <= 182) writeStored(progressKey, String(current));
+  if (Number.isInteger(current) && current >= 1 && current <= chapterCount) writeStored(progressKey, String(current));
   const previous = Number(readStored(progressKey));
   const resume = document.querySelector("[data-resume]");
-  if (resume && Number.isInteger(previous) && previous >= 1 && previous <= 182) {
+  if (resume && Number.isInteger(previous) && previous >= 1 && previous <= chapterCount) {
     resume.href = `chapters/${String(previous).padStart(3, "0")}.html`;
     resume.textContent = `继续阅读 · 第${String(previous).padStart(3, "0")}章`;
     resume.hidden = false;
   }
   const expandVolume = () => {
-    if (/^#volume-[1-5]$/.test(location.hash)) {
+    if (/^#volume-\d+$/.test(location.hash)) {
       const volume = document.getElementById(location.hash.slice(1));
       if (volume) volume.open = true;
     }
@@ -52,6 +53,7 @@
   expandVolume();
   window.addEventListener("hashchange", expandVolume);
   const search = document.querySelector("[data-search]");
+  const initialSearchStatus = document.querySelector("[data-search-status]")?.textContent || "";
   if (search) {
     search.addEventListener("input", () => {
       const query = search.value.trim().toLocaleLowerCase();
@@ -68,7 +70,7 @@
         matches += volumeMatches;
       }
       const status = document.querySelector("[data-search-status]");
-      if (status) status.textContent = query ? `找到 ${matches} 章` : "共五卷182章，点击卷名展开目录";
+      if (status) status.textContent = query ? `找到 ${matches} 章` : initialSearchStatus;
     });
   }
 })();
